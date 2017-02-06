@@ -1,7 +1,3 @@
----
-title: Gregory Benner
----
-
 ### Where I Am online
 
 * [GitHub](https://github.com/klathmon)
