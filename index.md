@@ -1,4 +1,4 @@
-### Where I Am online
+### Where I am online
 
 * [GitHub](https://github.com/klathmon)
 * [Hacker News](https://news.ycombinator.com/user?id=Klathmon)
@@ -7,11 +7,11 @@
 * [Twitter](https://twitter.com/klathmon)
 * [Coinbase](https://www.coinbase.com/Klathmon)
 
-### Where I Am In Real Life
+### Where I am in real life
 
 * Philadelphia, PA
 
-### Things I've Done
+### Things I've done
 
 * [imagemin-webpack-plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - a webpack plugin to minify images much better and faster and with greater compatability than image-webpack-loader
 * [StitchPics](https://stitchpics.net/#!/app) - Turns any picture into a cross stitch pattern right in the browser
@@ -23,6 +23,12 @@
 * PCSTrac - (May 2013 - Present)
 * Catfish WebWorks - (June 2012 - May 2013)
 * Freelance Web Developer - (March 2011 - May 2013)
+
+### Auto-generated list of things I've done
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
 
 ### Ways you can get ahold of me
 
