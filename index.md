@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### Where I Am online
 
-You can use the [editor on GitHub](https://github.com/Klathmon/klathmon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* [GitHub](https://github.com/klathmon)
+* [Hacker News](https://news.ycombinator.com/user?id=Klathmon)
+* [Reddit](https://www.reddit.com/user/klathmon)
+* [Keybase](https://keybase.io/klathmon)
+* [Twitter](https://twitter.com/klathmon)
+* [Coinbase](https://www.coinbase.com/Klathmon)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Where I Am In Real Life
 
-### Markdown
+* Philadelphia, PA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Things I've Done
 
-```markdown
-Syntax highlighted code block
+* [imagemin-webpack-plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - a webpack plugin to minify images much better and faster and with greater compatability than image-webpack-loader
+* [StitchPics](https://stitchpics.net/#!/app) - Turns any picture into a cross stitch pattern right in the browser
+* [Beep.js](https://github.com/Klathmon/Beep.js) - A stupid-simple wrapper around the WebAudio API to make it easier to use
+* [BitPacker.js](https://github.com/Klathmon/BitPacker.js) - A small library to quickly convert between 4 8-bit "colors" to a 32-bit "packed" number. Useful for doing image operations on the CPU in javascript faster.
 
-# Header 1
-## Header 2
-### Header 3
+### Places I worked
 
-- Bulleted
-- List
+* PCSTrac - (May 2013 - Present)
+* Catfish WebWorks - (June 2012 - May 2013)
+* Freelance Web Developer - (March 2011 - May 2013)
 
-1. Numbered
-2. List
+### Ways you can get ahold of me
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Klathmon/klathmon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [gregbenner1@gmail.com](mailto:gregbenner1@gmail.com) (please don't send me spam, I don't like spam)
