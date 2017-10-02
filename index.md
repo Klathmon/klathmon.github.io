@@ -41,8 +41,6 @@
 
 | Coin | Address |
 | ---- | ------- |
-| <img src="http://balanc3.net/library/img/ethereum-icon.svg" style="width: 20px;"/> **Ethereum** |[`0x66fE019585049A642ac1CC353b1E5d4c2EEB71Be`](ethereum:0x66fE019585049A642ac1CC353b1E5d4c2EEB71Be) |
-| <img src="https://raw.githubusercontent.com/shphrd/crypto-icons/master/color-icons/png/%402x/Bitcoin%402x.png" style="width: 20px;"/> **Bitcoin** | [`18y4Mf1iofVkoFC7vSNihtmEQxsKa8Rui8`](bitcoin:18y4Mf1iofVkoFC7vSNihtmEQxsKa8Rui8) |
-| <img src="https://github.com/shphrd/crypto-icons/raw/master/color-icons/png/@2x/Litecoin@2x.png" style="width: 20px;"/> **Litecoin** | [`LhUXpCR1rubHxpETB8wy4a7pjxyoMkFAe6`](litecoin:LhUXpCR1rubHxpETB8wy4a7pjxyoMkFAe6) |
-| <img src="https://pbs.twimg.com/profile_images/717425246836404225/vbhWLY6A.jpg" style="width: 20px;"/> **Z-Cash** | [`t1NuAJxQvFDfmPRSVWnQgqjjmq4sCbVDtr4`](zcash:t1NuAJxQvFDfmPRSVWnQgqjjmq4sCbVDtr4) |
-| <img src="https://pbs.twimg.com/profile_images/831263380413505538/b2tB_2aN.jpg" style="width: 20px;"/> **Decred** | [`DsXfmthq2PVDs9nXHkjUoZxtsCRTA8xywnD`](decred:DsXfmthq2PVDs9nXHkjUoZxtsCRTA8xywnD) |
+| **Bitcoin** | [`18y4Mf1iofVkoFC7vSNihtmEQxsKa8Rui8`](bitcoin:18y4Mf1iofVkoFC7vSNihtmEQxsKa8Rui8) |
+| **Ethereum** |[`0x66fE019585049A642ac1CC353b1E5d4c2EEB71Be`](ethereum:0x66fE019585049A642ac1CC353b1E5d4c2EEB71Be) |
+| **Litecoin** | [`LhUXpCR1rubHxpETB8wy4a7pjxyoMkFAe6`](litecoin:LhUXpCR1rubHxpETB8wy4a7pjxyoMkFAe6) |
