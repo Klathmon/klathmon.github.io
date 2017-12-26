@@ -5,7 +5,6 @@
 * [Reddit](https://www.reddit.com/user/klathmon)
 * [Keybase](https://keybase.io/klathmon)
 * [Twitter](https://twitter.com/klathmon)
-* [Coinbase](https://www.coinbase.com/Klathmon)
 
 ### Where I am in real life
 
@@ -24,12 +23,6 @@
 * Catfish WebWorks - (June 2012 - May 2013)
 * Freelance Web Developer - (March 2011 - May 2013)
 
-### List of repos on my GitHub
-*(because I just learned how to do this!)*
-
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
 
 ### Ways you can get ahold of me
 
@@ -41,6 +34,9 @@
 
 | Coin | Address |
 | ---- | ------- |
-| **Bitcoin** | [`18y4Mf1iofVkoFC7vSNihtmEQxsKa8Rui8`](bitcoin:18y4Mf1iofVkoFC7vSNihtmEQxsKa8Rui8) |
-| **Ethereum** |[`0x66fE019585049A642ac1CC353b1E5d4c2EEB71Be`](ethereum:0x66fE019585049A642ac1CC353b1E5d4c2EEB71Be) |
-| **Litecoin** | [`LhUXpCR1rubHxpETB8wy4a7pjxyoMkFAe6`](litecoin:LhUXpCR1rubHxpETB8wy4a7pjxyoMkFAe6) |
+| **Bitcoin (BTC)** | `3Jr4P9FpQh564HTkP7JPYX5Qx8M2xWGbx2` |
+| **Ethereum (ETH)** | `0xc4d7eEC76b31A3D806b0C02F4f581769Ad462554` |
+| **Litecoin (LTC)** | `M9m37h3dVkLDS13wYK7vcs7ck6MMMX6yhK` (P2SH `33YtoodfYdUndVn3SS8aoDsDRPkuRtqmWH`) |
+| **Ripple (XRP)** | `rwZKebrk1GNvQQvG77pUgr8A7xu3QjGy4b` |
+| **ZCash (ZEC)** | `t1Ko8sjTd5JZXZ1NAscU2CcgEWCcNUPeVSm` |
+| **Dogecoin (ZEC)** | `DMpouUtAJ5Lg6UC8C8pb4kZRr1qeN1FMKi` |
