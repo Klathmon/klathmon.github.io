@@ -34,9 +34,9 @@
 
 | Coin | Address |
 | ---- | ------- |
-| **Bitcoin (BTC)** | `3Jr4P9FpQh564HTkP7JPYX5Qx8M2xWGbx2` |
-| **Ethereum (ETH)** | `0xc4d7eEC76b31A3D806b0C02F4f581769Ad462554` |
-| **Litecoin (LTC)** | `M9m37h3dVkLDS13wYK7vcs7ck6MMMX6yhK` (P2SH `33YtoodfYdUndVn3SS8aoDsDRPkuRtqmWH`) |
-| **Ripple (XRP)** | `rwZKebrk1GNvQQvG77pUgr8A7xu3QjGy4b` |
-| **ZCash (ZEC)** | `t1Ko8sjTd5JZXZ1NAscU2CcgEWCcNUPeVSm` |
-| **Dogecoin (DOGE)** | `DMpouUtAJ5Lg6UC8C8pb4kZRr1qeN1FMKi` |
+| **Bitcoin&nbsp;(BTC)** | `3Jr4P9FpQh564HTkP7JPYX5Qx8M2xWGbx2` |
+| **Ethereum&nbsp;(ETH)** | `0xc4d7eEC76b31A3D806b0C02F4f581769Ad462554` |
+| **Litecoin&nbsp;(LTC)** | `M9m37h3dVkLDS13wYK7vcs7ck6MMMX6yhK` (P2SH `33YtoodfYdUndVn3SS8aoDsDRPkuRtqmWH`) |
+| **Ripple&nbsp;(XRP)** | `rwZKebrk1GNvQQvG77pUgr8A7xu3QjGy4b` |
+| **ZCash&nbsp;(ZEC)** | `t1Ko8sjTd5JZXZ1NAscU2CcgEWCcNUPeVSm` |
+| **Dogecoin&nbsp;(DOGE)** | `DMpouUtAJ5Lg6UC8C8pb4kZRr1qeN1FMKi` |
