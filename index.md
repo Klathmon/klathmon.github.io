@@ -41,3 +41,4 @@
 | **Ripple&nbsp;(XRP)** | `rwZKebrk1GNvQQvG77pUgr8A7xu3QjGy4b` |
 | **ZCash&nbsp;(ZEC)** | `t1Ko8sjTd5JZXZ1NAscU2CcgEWCcNUPeVSm` |
 | **Dogecoin&nbsp;(DOGE)** | `DMpouUtAJ5Lg6UC8C8pb4kZRr1qeN1FMKi` |
+| **Anything Else** | Contact me and I'll be happy to try out anything else! |
