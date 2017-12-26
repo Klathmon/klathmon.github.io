@@ -39,4 +39,4 @@
 | **Litecoin (LTC)** | `M9m37h3dVkLDS13wYK7vcs7ck6MMMX6yhK` (P2SH `33YtoodfYdUndVn3SS8aoDsDRPkuRtqmWH`) |
 | **Ripple (XRP)** | `rwZKebrk1GNvQQvG77pUgr8A7xu3QjGy4b` |
 | **ZCash (ZEC)** | `t1Ko8sjTd5JZXZ1NAscU2CcgEWCcNUPeVSm` |
-| **Dogecoin (ZEC)** | `DMpouUtAJ5Lg6UC8C8pb4kZRr1qeN1FMKi` |
+| **Dogecoin (DOGE)** | `DMpouUtAJ5Lg6UC8C8pb4kZRr1qeN1FMKi` |
