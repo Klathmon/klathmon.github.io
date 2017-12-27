@@ -50,8 +50,10 @@
 | **Ripple&nbsp;(XRP)** | `rwZKebrk1GNvQQvG77pUgr8A7xu3QjGy4b` |
 | **ZCash&nbsp;(ZEC)** | `t1Ko8sjTd5JZXZ1NAscU2CcgEWCcNUPeVSm` |
 | **Dogecoin&nbsp;(DOGE)** | `DMpouUtAJ5Lg6UC8C8pb4kZRr1qeN1FMKi` |
+| **Dash&nbsp;(DASH)** | `Xd1CZ2y7YXpF73ca6B2aykFpy3NmmfPpJ5` |
+| **Vertcoin&nbsp;(VTC)** | `31zcxdu7t7oND2aGN1NXin8qFUo7Xp54L1` |
+| **Stellar&nbsp;lumens&nbsp;(STR)** | `GD24YUR7ETAIX76477J6P2SZH3QNB5LVHA2AVNL2ICC4U3KSVLKL5RRN` |
 | **Anything Else** | Contact me and I'll be happy to try out anything else! |
-
 
 ### Other things
 
